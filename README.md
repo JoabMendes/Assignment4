@@ -2,8 +2,11 @@ Makefile:
 ---------
 Both programs share the same make file.
 To compile the referee program, run:
+
 	`$ make`
+
 To compile the player program, run:
+
 	`$ make player`
 
 Usage: 
