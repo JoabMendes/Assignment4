@@ -3,11 +3,11 @@ Makefile:
 Both programs share the same make file.
 To compile the referee program, run:
 
-	`$ make`
+	$ make
 
 To compile the player program, run:
 
-	`$ make player`
+	$ make player
 
 Usage: 
 ---------
@@ -16,24 +16,29 @@ First execute the referee program. (You can execute the player first as well, bu
 because the player only display something after connect with the referee program).
 
 Terminal 1:
-	`$ ./referee`
 
-You will see this output
-	`Paper, Scissors, Rock game start.
+	$ ./referee
+
+You will see this output:
+
+	Paper, Scissors, Rock game start.
 	Waiting for player...`
 
 Terminal 2:
-	`$ ./player`
 
-You will see this output
-	`Welcome to the Paper, Scissors and Rock game.
+	$ ./player
+
+You will see this output:
+
+	Welcome to the Paper, Scissors and Rock game.
 	You can choose:
 	1 - Paper
 	2 - Scissors
 	3 - Rock
 	4 - Quit
 	Go
-	Please enter your choice:`
+	Please enter your choice:
+
 
 - The programs don't need arguments in their calling, however, if you enter any argument, they will ignore it.
 - The referee program can handle multiple clients, if you want to run a third terminal with a player.
