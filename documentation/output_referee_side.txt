@@ -1,0 +1,98 @@
+SERVER SIDE:
+
+$ ./referee
+Paper, Scissors, Rock game start.
+Waiting for player...
+Player: ready. 
+Go.
+
+Player: Paper
+Computer: Paper
+This turn was a draw!
+
+Waiting for player...
+Player: ready. 
+Go.
+
+Player: Scissors
+Computer: Rock
+Computer wins.
+
+Waiting for player...
+Player: ready. 
+Go.
+
+Player: Paper
+Computer: Scissors
+Computer wins.
+
+Waiting for player...
+Player: ready. 
+Go.
+
+Player: Scissors
+Computer: Rock
+Computer wins.
+
+Waiting for player...
+Player: ready. 
+Go.
+
+Player: Rock
+Computer: Paper
+Computer wins.
+
+Waiting for player...
+Player: ready. 
+Go.
+
+Player: Paper
+Computer: Scissors
+Computer wins.
+
+Waiting for player...
+Player: ready. 
+Go.
+
+Player: Scissors
+Computer: Paper
+Player wins.
+
+Waiting for player...
+Player: ready. 
+Go.
+
+Player: Rock
+Computer: Scissors
+Player wins.
+
+Waiting for player...
+Player: ready. 
+Go.
+
+Player: Rock
+Computer: Rock
+This turn was a draw!
+
+Waiting for player...
+Player: ready. 
+Go.
+Player: disconnected.
+
+Waiting for player...
+Player: ready. 
+Go.
+Player: disconnected.
+
+Waiting for player...
+Player: ready. 
+Go.
+Player: disconnected.
+
+Waiting for player...
+Player: ready. 
+Go.
+Player: disconnected.
+
+Waiting for player...
+^C

@@ -1,0 +1,270 @@
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+1
+
+Player: Paper
+Computer: Scissors
+Computer wins.
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+1
+
+Player: Paper
+Computer: Scissors
+Computer wins.
+
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+1
+
+Player: Paper
+Computer: Paper
+This turn was a draw!
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+1
+
+Player: Paper
+Computer: Paper
+This turn was a draw!
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+1
+
+Player: Paper
+Computer: Paper
+This turn was a draw!
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+1
+
+Player: Paper
+Computer: Paper
+This turn was a draw!
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+1
+
+Player: Paper
+Computer: Paper
+This turn was a draw!
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+2
+
+Player: Scissors
+Computer: Rock
+Computer wins.
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+1
+
+Player: Paper
+Computer: Scissors
+Computer wins.
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+2
+
+Player: Scissors
+Computer: Rock
+Computer wins.
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+3
+
+Player: Rock
+Computer: Paper
+Computer wins.
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+1
+
+Player: Paper
+Computer: Scissors
+Computer wins.
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+2
+
+Player: Scissors
+Computer: Paper
+Player wins.
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+3
+
+Player: Rock
+Computer: Scissors
+Player wins.
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+3
+
+Player: Rock
+Computer: Rock
+This turn was a draw!
+
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+4
+Bye.
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+0
+Invalid option, execute the program again.
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+yolo
+Invalid option, execute the program again.
+$ ./player
+Welcome to the Paper, Scissors and Rock game.
+You can choose:
+1 - Paper
+2 - Scissors
+3 - Rock
+4 - Quit
+Go
+Please enter your choice:
+4
+Bye.
